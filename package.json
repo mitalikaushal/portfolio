@@ -9,7 +9,7 @@
   },
   "author": "mitali",
   "license": "ISC",
-  "homepage": "https://mitalikaushal.github.io/myportfolio",
+  "homepage": "https://mitalikaushal.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
