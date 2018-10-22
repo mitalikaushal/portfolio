@@ -11,7 +11,7 @@
   "license": "ISC",
   "homepage": "https://mitalikaushal.github.io/portfolio",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^1.2.0",
     "node-sass": "^4.9.3"
   }
 }
